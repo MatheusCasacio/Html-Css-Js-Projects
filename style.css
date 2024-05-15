@@ -61,15 +61,6 @@ input[type="checkbox"] {
     transition-timing-function: cubic-bezier(0.2, 1, 0.2, 1.4);
 }
 
-.git {
-    margin-top: -160px;
-    margin-left:  -290px;
-}
-
-.git-link {
-    transform: scale(15%)
-}
-
 .git-link:hover {
     transform: scale(0.17);
 }
