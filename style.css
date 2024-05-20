@@ -60,11 +60,6 @@ input[type="checkbox"] {
     transition: 0.3s;
     transition-timing-function: cubic-bezier(0.2, 1, 0.2, 1.4);
 }
-
-.git-link:hover {
-    transform: scale(0.17);
-}
-
 .create-button:hover {
     background: var(--light-green);
     transform: scale(1.1);
